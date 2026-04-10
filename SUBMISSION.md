@@ -6,7 +6,7 @@
 
 **Student ID:** [2025it0613]
 
-**Date:** []
+**Date:** [10/02/2026]
 
 **Operating System:** [Windows]
 
@@ -71,6 +71,6 @@ Paste the output of `whoami` here:
 
 ---
 
-**Submission Date:** [Auto-filled when you commit]
+**Submission Date:** [10/02/2026]
 
 **Repository URL:** [https://github.com/ait-svce/getting-started-with-git-VARUNKRISHNA-08-1.git]
